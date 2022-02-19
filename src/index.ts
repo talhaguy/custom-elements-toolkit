@@ -1,1 +1,2 @@
-console.log('hello world');
+export * from './base-provider';
+export * from './base-component';
