@@ -40,7 +40,7 @@ export class CustomComponent extends BaseComponent {
   <div id="cont">
     <custom-component></custom-component>
 
-	<!-- imagine this is server rendered -->
+    <!-- imagine this is server rendered -->
     <custom-component isSSR="true">
       <div>foo... (server) <span></span></div>
     </custom-component>
