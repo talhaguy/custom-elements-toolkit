@@ -9,6 +9,7 @@
   "author": "Muhammad Talha",
   "license": "ISC",
   "devDependencies": {
+    "prettier": "2.5.1",
     "typescript": "^4.5.5"
   }
 }
